@@ -1,4 +1,4 @@
-![Thumbnail](./assets/9p43kk.jpg)
+![Thumbnail](./assets/qa-bad-choices.jpg)
 
 # Today's Web Test Automation — Houston, We've Got a Problem
 
