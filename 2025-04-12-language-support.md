@@ -1,4 +1,4 @@
-![Thumbnail](./assets/ultimate-tool.png)
+![Thumbnail](./assets/language-support.png)
 
 # The Ultimate Test Automation Tool for Web Apps
 
