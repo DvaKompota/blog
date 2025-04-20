@@ -7,6 +7,10 @@ This blog explores modern software test automation, examining tools, frameworks,
 ## Articles
 
 ### April 2025
+- **[Ultimate TA Tool Part 2: Browser Support](./2025-04-20-browser-support.md)** (April 20, 2025)  
+  Playwright's built-in browser management vs. Selenium's WebDriver woes, and Cypress's limitations. 
+  Discover how Playwright's flexibility and browser API access make it the go-to choice for cross-platform testing.
+
 - **[Ultimate TA Tool Part 1: Language Support](./2025-04-12-language-support.md)** (April 12, 2025)  
   Comparing language support across Selenium, Cypress, and Playwright - which framework gives you the edge for modern web development?
 
