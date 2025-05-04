@@ -6,6 +6,10 @@ This blog explores modern software test automation, examining tools, frameworks,
 
 ## Articles
 
+### May 2025
+- **[Speed and Reliability — Auto-Waits, Conditional Actions, and More](./2025-05-04-speed-and-reliability.md)** (May 4, 2025)  
+  Playwright's auto-waits and conditional actions make your tests fast and reliable. No more flaky tests or manual waits!
+
 ### April 2025
 - **[Ultimate TA Tool Part 2: Browser Support](./2025-04-20-browser-support.md)** (April 20, 2025)  
   Playwright's built-in browser management vs. Selenium's WebDriver woes, and Cypress's limitations. 
