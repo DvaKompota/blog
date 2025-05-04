@@ -33,7 +33,7 @@ Playwright piles on the goodness:
 - **Network Mocking**: Monitor or mock network requests to tame flaky APIs and control your test environment.
   
 | Feature                 | Selenium | Cypress | Playwright |
-| ----------------------- | -------- | ------- | ---------- |
+| ----------------------- |:--------:|:-------:|:----------:|
 | Auto-waits              |    ❌    |   ✅   |     ✅     |
 | Automatic retries       |    ❌    |   ✅   |     ✅     |
 | Network mocking         |    ❌    |   ✅   |     ✅     |
